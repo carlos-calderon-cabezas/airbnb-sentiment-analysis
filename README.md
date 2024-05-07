@@ -1,4 +1,4 @@
-¡Bienvenidos a mi repositorio sobre an&aacute;lisis de sentimientos! / Welcome to my sentiment analysis open repository!
+**¡Bienvenidos a mi repositorio sobre an&aacute;lisis de sentimientos! / Welcome to my sentiment analysis open repository!**
 
 <img src="https://i.imgur.com/4I0Em2T.png" alt="Project Collage" width="50%">
 
