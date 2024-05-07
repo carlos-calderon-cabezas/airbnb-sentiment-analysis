@@ -1,15 +1,10 @@
 ¡Bienvenidos a mi repositorio sobre an&aacute;lisis de sentimientos! / Welcome to my sentiment analysis open repository!
 
-[Click here for the English version](#english)
+[**Click here for the english version**](#english) | [**Haz clic aquí para la versión en español**](#español)
 
 ---
 
-[Haz clic aquí para la versión en español](#español)
-
-
----
-
-## English
+# English
 
 In this repository you will be able to find a practical application with real data on sentiment analysis, which is part of natural language processing (NLP), which in turn is part of the applications that can be developed with artificial intelligence. This project also addresses fundamental concepts of data science, such as cleaning and preprocessing data, organizing it, and drawing relevant conclusions from it.
 
@@ -21,7 +16,7 @@ Because the Airbnb API is not accessible to the general public, in addition to t
 
 ---
 
-## Español
+# Español
 
 En este repositorio ustedes podrán encontrar una aplicación práctica con datos reales sobre en análisis de sentimientos, el cual forma parte del procesamiento del lenguaje natural (NLP), mismo que a su vez forma parte de las aplicaciones que se pueden desarrollar con inteligencia artificial. En este proyecto también se abordan algunos de los conceptos fundamentales de la ciencia de datos, desde la minería de datos, pasando por la limpieza y el preprocesamiento de datos, su organización, y el desarrollo de modelos de inteligencia artificial a partir de estos.
 
