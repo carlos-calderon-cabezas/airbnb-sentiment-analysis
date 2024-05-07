@@ -1,5 +1,7 @@
 ¡Bienvenidos a mi repositorio sobre an&aacute;lisis de sentimientos! / Welcome to my sentiment analysis open repository!
 
+![Project Collage](https://i.imgur.com/4I0Em2T.png){ width=50% }
+
 [**Click here for the english version**](#english) | [**Haz clic aquí para la versión en español**](#español)
 
 ---
