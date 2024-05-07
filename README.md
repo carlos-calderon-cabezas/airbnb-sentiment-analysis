@@ -1,9 +1,9 @@
 ¡Bienvenidos a mi repositorio sobre an&aacute;lisis de sentimientos! / Welcome to my sentiment analysis open repository!
 
-# English Version
 [Click here for the English version](#english)
 
-# Versión en Español
+---
+
 [Haz clic aquí para la versión en español](#español)
 
 
