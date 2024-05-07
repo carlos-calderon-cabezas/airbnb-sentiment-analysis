@@ -9,6 +9,14 @@
 
 ## English
 
+In this repository you will be able to find a practical application with real data on sentiment analysis, which is part of natural language processing (NLP), which in turn is part of the applications that can be developed with artificial intelligence. This project also addresses fundamental concepts of data science, such as cleaning and preprocessing data, organizing it, and drawing relevant conclusions from it.
+
+This project is written entirely in the ***Python*** programming language and is developed in the ***Jupyter Notebook*** environment within the ***Google Colab*** platform.
+
+To carry out this study, a sample of data is taken from reviews left by guests of different accommodations offered by the temporary accommodation platform known as ***Airbnb***, specifically on the tropical beach of Montañita located in the Republic of Ecuador. .
+
+Because the Airbnb API is not accessible to the general public, in addition to the fact that at the time of carrying out this project, said company was not accepting requests to access its API, I had to extract the review data manually, which meant manually copying and pasting into a text file, for further processing with Python.
+
 ---
 
 ## Español
