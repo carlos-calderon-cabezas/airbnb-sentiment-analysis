@@ -10,7 +10,9 @@
 
 In this repository I have developed a practical application with real data on sentiment analysis, which is part of natural language processing (NLP), which in turn is part of the applications that can be developed with artificial intelligence. In this project I also cover some of the fundamental concepts of data science, from data mining, through data cleaning and preprocessing, its organization, and the development of artificial intelligence models from them.
 
-This project is written entirely in the ***Python*** programming language, and is developed in the ***Jupyter Notebook*** environment within the ***Google Colab* cloud services platform. **.
+The main goal is to use artificial intelligence and natural language processing to help Airbnb properties located in Montañita to understand their guests' opinions and improve their service. This is achieved through sentiment analysis, identifying patterns in comments to suggest areas for improvement to attract more guests.
+
+This project is written entirely in the ***Python*** programming language, and is developed in the ***Jupyter Notebook*** environment within the ***Google Colab*** cloud services platform.
 
 To carry out this study, I obtained a sample of data from reviews left by guests of different accommodations that are offered by the temporary accommodation platform ***Airbnb***, with a specific focus on the Montañita spa located in the Republic of Ecuador, which is visited every year by several thousand national and foreign tourists from various countries around the world.
 
@@ -25,6 +27,8 @@ Lastly, I performed sentiment analysis, which takes the words found in each revi
 # Español
 
 En este repositorio he desarrollado una aplicación práctica con datos reales sobre en análisis de sentimientos, el cual forma parte del procesamiento del lenguaje natural (NLP), mismo que a su vez forma parte de las aplicaciones que se pueden desarrollar con inteligencia artificial. En este proyecto también cubro algunos de los conceptos fundamentales de la ciencia de datos, desde la minería de datos, pasando por la limpieza y el preprocesamiento de datos, su organización, y el desarrollo de modelos de inteligencia artificial a partir de estos.
+
+El objetivo principal consiste en utilizar inteligencia artificial y procesamiento del lenguaje natural para ayudar a los alojamientos ofrecidos en Airbnb a comprender las opiniones de sus huéspedes y mejorar su servicio. Esto se logra mediante el análisis de sentimientos, identificando patrones en los comentarios para sugerir áreas de mejora y así atraer a más huéspedes.
 
 Este proyecto está escrito por completo en el lenguaje de programación ***Python***, y se desarrolla en el entorno de ***Jupyter Notebook*** dentro de la plataforma de servicios en la nube de ***Google Colab***.
 
