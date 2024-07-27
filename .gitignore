@@ -1,5 +1,8 @@
 processing/
 
+# Image files
+*.png
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
