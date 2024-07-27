@@ -1,6 +1,10 @@
 **Welcome to my sentiment analysis open repository!**
 
-<img src="https://i.imgur.com/4I0Em2T.png" alt="Project Collage" width="50%">
+<img src="https://github.com/user-attachments/assets/d638e6c4-3821-4e5b-96d7-4c22b023380a" alt="Project Collage" width="50%">
+
+[**Haz clic aquí para la versión en español**](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis/blob/main/README.md)
+
+---
 
 In this repository I have developed a practical application with real data on sentiment analysis, which is part of natural language processing (NLP), which in turn is part of the applications that can be developed with artificial intelligence. In this project I also cover some of the fundamental concepts of data science, from data mining, through data cleaning and preprocessing, its organization, and the development of artificial intelligence models from them.
 
