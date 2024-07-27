@@ -1,1 +1,52 @@
 processing/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# DataSpell configuration
+.idea/
+*.iml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/vcs.xml
+
+# Jupyter Notebook metadata and outputs
+*.nb.html
+*.nb.py
+*.nbconvert.ipynb
+*.nbstripout
+*.ipynb_rewrite
+
+# Jupyter Notebook local server state
+nbproject/
+*.ipynb_jupyter_metadata.json
+
+# Common data files
+*.csv
+*.tsv
+*.dat
+*.data
+*.log
+*.h5
+*.hdf5
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Hidden files
+.*
