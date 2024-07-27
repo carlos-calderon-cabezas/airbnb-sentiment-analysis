@@ -34,7 +34,12 @@ Por último, realicé el análisis de sentimientos, mismo que toma las palabras 
 ## Contenido del proyecto
 
 - `airbnb_sentiment_analysis.ipynb`: Jupyter Notebook de Google Colab escrito en Python.
-- Carpeta `abb_reviews` con los siguientes datasets de entrada:
+- Carpeta `abb_reviews`, mismo que contiene los 10 archivos, correspondientes a 10 alojamientos a los cuales los huéspedes dejaron reseñas.
+- Carpeta `output`, la cual contiene todos los archivos de salida que produce este modelo:
+  - `matriz_sentimientos.xlsx`: Contiene los sentimientos reales, los cuales fueron asignados manualmente y los sentimientos predichos por el modelo.
+- Carpeta `translations`: Contiene dos archivos con reseñas traducidas tanto al español como al inglés:
+
+*Nota: Para que no tengas que generar una clave API en `Google Cloud Translate`, se sugiere que conserves la carpeta `translations`. Si deseas realizar las traducciones usando la nube de Google, puedes borrar de manera segura esta carpeta.*
 
 ## Instrucciones de uso
 
@@ -43,7 +48,7 @@ Para utilizar este proyecto es necesario seguir estos pasos:
 1. Clonar el repositorio o descargar todos los archivos.
 2. Asegurarse de tener instalados los paquetes de Python que se usan en el proyecto: `pandas`, `emoji`, `nltk`, `matplotlib` y `seaborn`.
 3. Abrir el archivo `airbnb_sentiment_analysis.ipynb` en cualquier entorno de trabajo de tu preferencia, puede ser `Jupyter Notebook`, `Google Colab`, `DataSpell`, entre otros.
-4. Ejecutar las celdas del notebook para ver los análisis y predicciones.
+4. Ejecutar las celdas del notebook para ver la minería manual de datos y el análisis de sentimientos que he realizado.
 
 No es necesario instalar software adicional ni configurar el entorno más allá de tener Jupyter y las librerías de Python previamente descritas.
 
