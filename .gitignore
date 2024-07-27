@@ -1,7 +1,7 @@
 processing/
 
 # Image files
-*.png
+output/*.png
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
