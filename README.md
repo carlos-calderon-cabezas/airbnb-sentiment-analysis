@@ -1,9 +1,8 @@
 # Análisis de sentimientos con Procesamiento de Lenguaje Natural aplicado a reseñas de Airbnb 
 
+![resized_image_250](https://github.com/user-attachments/assets/745d3055-36a5-4a3e-9741-8ea364b179dd)
 
-<img src="https://github.com/user-attachments/assets/d638e6c4-3821-4e5b-96d7-4c22b023380a" alt="Project Collage" width="50%">
-
-**¡Bienvenidos a mi repositorio sobre an&aacute;lisis de sentimientos! / Welcome to my sentiment analysis open repository!**
+**¡Bienvenidos a mi proyecto sobre análisis de sentimientos!** 😊🏖️😐🏄😠✈️😢
 
 ## Tabla de Contenidos
 
