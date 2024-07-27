@@ -1,8 +1,8 @@
 **¡Bienvenidos a mi repositorio sobre an&aacute;lisis de sentimientos! / Welcome to my sentiment analysis open repository!**
 
-<img src="https://i.imgur.com/4I0Em2T.png" alt="Project Collage" width="50%">
+<img src="https://github.com/user-attachments/assets/d638e6c4-3821-4e5b-96d7-4c22b023380a" alt="Project Collage" width="50%">
 
-[**Click here for the english version**](#english) | [**Haz clic aquí para la versión en español**](#español)
+[**Click here for the english version**](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis/blob/main/README_EN.md)
 
 ---
 
