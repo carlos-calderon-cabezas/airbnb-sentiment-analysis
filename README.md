@@ -1,5 +1,7 @@
 # Análisis de sentimientos con Procesamiento de Lenguaje Natural aplicado a reseñas de Airbnb 
 
+[**Click here for the english version**](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis/blob/main/README_EN.md)
+
 ![resized_image_250](https://github.com/user-attachments/assets/745d3055-36a5-4a3e-9741-8ea364b179dd)
 
 **¡Bienvenidos a mi proyecto sobre análisis de sentimientos!** 😊🏖️😐🏄😠✈️😢
@@ -11,7 +13,6 @@
 - [Instrucciones de uso](#instrucciones-de-uso)
 - [Breve resumen de conclusiones y recomendaciones](#breve-resumen-de-conclusiones-y-recomendaciones)
 
-[**Click here for the english version**](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis/blob/main/README_EN.md)
 
 ---
 
