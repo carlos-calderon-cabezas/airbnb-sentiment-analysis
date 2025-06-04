@@ -6,6 +6,8 @@
 
 **Welcome to my sentiment analysis project!** 😊🏖️😐🏄😠✈️😢
 
+[Click here to view the project](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis/blob/main/airbnb_sentiment_analysis_EN.ipynb)
+
 ## Table of Contents
 
 - [Project Description](#project-description)
