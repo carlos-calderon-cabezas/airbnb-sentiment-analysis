@@ -6,6 +6,8 @@
 
 **¡Bienvenidos a mi proyecto sobre análisis de sentimientos!** 😊🏖️😐🏄😠✈️😢
 
+[Click aquí para ver el proyecto](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis/blob/main/airbnb_sentiment_analysis.ipynb) / [Click here to view the project](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis/blob/main/airbnb_sentiment_analysis_EN.ipynb)
+
 ## Tabla de Contenidos
 
 - [Descripción del proyecto](#descripción-del-proyecto)
